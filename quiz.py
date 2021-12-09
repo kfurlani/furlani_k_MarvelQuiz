@@ -14,7 +14,6 @@ print(answer2)
 vars.quizTotal += answer2
 print("++++++++\n")
 
-print("total so far " + str(vars.quizTotal) + "\n") 
 
 answer3 = questions["q3"][input(questions["q3"]["question"])]
 print(answer3)
@@ -34,7 +33,7 @@ print(answer5)
 vars.quizTotal += answer5
 print("++++++++\n")
 
-print("total so far " + str(vars.quizTotal) + "\n") 
+
 
 
 
