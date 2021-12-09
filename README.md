@@ -2,19 +2,19 @@
 
 <img src="image/banner-marvel.jpg" alt="marvel banner"> 
 
-This computer know exactly who you're thinking of! Think you can out smart us? Try our Marvel quiz!
+This computer know exactly who you're thinking of! Think you can out smart us? Try our Marvel quiz! :wizard:
 
 ## Contributor 
 
-    Krystal Furlani 
+Krystal Furlani 
 
 ## Code Used 
 
-    - Python :snake: 
+Python :snake: 
 
 ## Styled By: 
 
-    - Colorama! 
+Colorama! 
 
 ## Git Commands Used 
 
