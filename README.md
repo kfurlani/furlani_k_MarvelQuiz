@@ -2,7 +2,7 @@
 
 <img src="image/banner-marvel.jpg" alt="marvel banner"> 
 
-This computer know exactly who you're thinking of! Think you can out smart us? Try our Marvel quiz! :wizard:
+This computer know exactly who you're thinking of! Think you can out smart us? Try our Marvel quiz! :crystal_ball:
 
 ## Contributor 
 
@@ -18,11 +18,11 @@ Colorama!
 
 ## Git Commands Used 
 
-    - git checkout -b
-    - git branch 
-    - git status 
-    - git add *
-    - git push origin 
+- git checkout -b
+- git branch 
+- git status 
+- git add *
+- git push origin 
 
 ## Acknowledgements
 Thank you Trevor for all your help this semester! 
