@@ -27,6 +27,14 @@ questions = {
         "question" : "Do you use a Hammer? ",
         "yes" : 500, 
         "no" : 0
+    },
+
+    "q6" : {
+        "question" : "Do you have plans to destroy half the Universe? ",
+        "yes" : 1000, 
+        "no" : 0 
     }
+
+    
 
 }

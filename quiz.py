@@ -33,6 +33,11 @@ print(answer5)
 vars.quizTotal += answer5
 print("~~~*~~~\n")
 
+answer6 = questions["q6"][input(questions["q6"]["question"])]
+print(answer6)
+
+vars.quizTotal += answer6
+print("~~~*~~~\n")
 
 
 
